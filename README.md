@@ -4,7 +4,7 @@
   Educational Software, Utilities, and Games
 
 - 🌱 I’m currently learning:
-  Rust, React, Snowpack, Bluetooth Protocol, & STM Assembly
+  Rust, Web Assembly, AWS, Game Dev, Bluetooth Protocol, & STM Assembly
 
 - 💞️ I’m looking to collaborate on:
   Educational software or small scale games
